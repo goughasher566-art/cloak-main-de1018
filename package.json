@@ -1,0 +1,22 @@
+{
+  "name": "philip-hopf-landing-page",
+  "version": "1.0.0",
+  "description": "Philip Hopf WhatsApp Group Landing Page",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Static site - no build needed'",
+    "start": "vercel dev"
+  },
+  "keywords": [
+    "landing-page",
+    "whatsapp",
+    "investment",
+    "german"
+  ],
+  "author": "Philip Hopf",
+  "license": "MIT",
+  "devDependencies": {
+    "vercel": "^32.0.0"
+  }
+}
